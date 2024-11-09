@@ -1,0 +1,433 @@
+.fondoLogin {
+    background-color: #ffffff !important;
+}
+
+.centrado-porcentual {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.colorP{
+	background-color: #ff6d2a !important; 
+}
+
+.fontP{
+	color: #ff6d2a !important;
+}
+
+.fontiP{
+  color: #ff6d2a !important;
+}
+
+.accenP{
+  background-color: #ff6d2a !important;
+}
+
+.accentfP{
+  color: #ff6d2a !important;
+}
+
+.grisC{
+  background-color: #B0C0C5 !important;
+}
+
+.grisF{
+  color: #B0C0C5 !important;
+}
+
+.login-input{
+  border-style: solid !important;
+  border-radius: 7px !important;
+  border-width: 0px !important;
+  background-color: #d6d6d6 !important;
+  padding: 0.200rem 0.75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;  
+}
+
+.project-input{
+  border-style: solid !important;
+  border-radius: 7px !important;
+  border-color: #d6d6d6 !important;
+  border-width: 2px !important;
+  background-color: white !important;
+  padding: 0.200rem 0.75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;  
+}
+
+input[type=search]:not(.browser-default){
+  border-style: solid !important;
+  border-radius: 7px !important;
+  border-color: #d6d6d6 !important;
+  border-width: 2px !important;
+  background-color: white !important;
+  padding: 0.200rem 0.75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; 
+  margin-left: -1.5em !important;
+}
+
+.project-input::placeholder{
+  color: #868686 !important;
+}
+
+@media only screen and (min-width: 601px) {
+  .espacio-especial {
+    margin-top: 22.5vh !important;
+  }
+}
+
+.borde7{
+  border-radius: 10px !important;
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+}
+
+.btn:hover{
+  background-color: #F08024 !important;
+}
+
+    .responsivo {
+      padding-left: 300px !important;
+    }
+
+    @media only screen and (max-width : 992px) {
+     .responsivo {
+        padding-left: 0 !important;
+      } 
+    }
+
+
+.brand-logo{
+  font-size: 15px !important; 
+}
+
+    @media only screen and (max-width : 992px) {
+     .brand-logo {
+        font-size: 10px !important; 
+      } 
+    }    
+
+.select-wrapper input.select-dropdown {
+  position: relative !important;
+  cursor: alias !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 0px !important;
+  outline: none !important;
+  height: 3rem !important;
+  line-height: 3rem !important;
+  width: 100% !important;
+  margin: 0 0 0 0 !important; 
+  padding: 0 !important;
+  display: block !important;
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none!important;
+  z-index: 1 !important;
+  border-style: solid !important;
+  border-radius: 7px !important;
+  border-color: #d6d6d6 !important;
+  border-width: 2px !important;
+  background-color: white !important;
+  padding: 0.200rem 0.75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;      
+}
+
+.select-wrapper input.select-dropdown::placeholder {
+  color: #ff6d2a !important;   
+} 
+
+.input-field {
+    position: relative !important;
+    margin-top: 0rem !important;
+    margin-bottom: 1rem !important;
+}   
+
+/* label color (COLOR Y TAMAÑO DEL TEXTO DE TITULOS DE FORMULARIO */
+.input-field label {
+  color: #fe5f2f;
+  font-size: 1.2rem !important;
+}
+
+/* label color (COLOR Y TAMAÑO DEL TEXTO DE TITULOS DE FORMULARIO */
+.input-field label {
+  color: #fe5f2f;
+  font-size: 1.2rem !important;
+}
+
+
+.quitarmargen{
+    margin-bottom: 0px;
+}
+
+.switch label input[type=checkbox]:checked + .lever:after {
+    background-color: #F08024 !important;
+}
+
+.switch label input[type=checkbox]:checked + .lever {
+    background-color: #f4912b47 !important;
+}
+
+.ver{
+  opacity: 1!important;
+}
+
+.btnew {
+    text-decoration: none;
+    color: #868686 !important;
+    background-color: #F08024;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+    box-shadow: none;
+    border-style: solid !important;
+    border-radius: 7px !important;
+    border-color: #d6d6d6 !important;
+    border-width: 2px !important;
+}
+
+.btnew:hover {
+    text-decoration: none;
+    color: white !important;
+    background-color: #F08024 !important;
+    cursor: pointer;
+    box-shadow: none;
+    border-style: solid !important;
+    border-radius: 7px !important;
+    border-color: #d6d6d6 !important;
+    border-width: 2px !important;
+}
+
+.numerodash{
+  font-size: 19px;
+}
+/* formato de texto para cambio de contraseña en formulario*/
+blockquote {
+    margin: 7px 0;
+    color: #424242;
+    padding-left: 0rem;
+    border-left: 0px solid white;
+}
+
+.blockquotecambio{
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #013244;
+}
+
+ul.select-dropdown,ul.dropdown-content{
+    max-height: 400px !important;
+}
+
+td::after {
+    content: "";
+    width: 2px;
+    height: 57%;
+    background: #ececec;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.cardasignados {
+  max-height: 400px !important;
+  overflow-y: scroll;
+}
+
+html::-webkit-scrollbar, .cardasignados::-webkit-scrollbar, .cardatos::-webkit-scrollbar  {
+   width: 10px; /*=> ancho del scroll*/
+   height: 8px; /*=> alto del scroll*/
+   background-color: #000000; /*=> Color del fondo principal */
+}
+
+html::-webkit-scrollbar-track, .cardasignados::-webkit-scrollbar, .cardatos::-webkit-scrollbar {
+   background-color: #ffffff;
+}
+
+html::-webkit-scrollbar-thumb, .cardasignados::-webkit-scrollbar, .cardatos::-webkit-scrollbar{
+   background-color: #013244; /*=> color del indicador del scroll */
+   border-radius: 10px; /*=> bordes redondeados */
+   background-image:-webkit-linear-gradient(45deg,rgba(0,0,0,.3) 25%,transparent 25%,transparent 50%,rgba(0,0,0, 0.3) 50%,rgba(0,0,0,.3) 75%,transparent 75%,transparent);
+}
+
+.espabajo{
+  margin-bottom: 10px;
+}
+
+.search-input{
+  margin-top: 10px !important;
+  border-style: solid !important;
+  border-radius: 7px !important;
+  border-color: #d6d6d6 !important;
+  border-width: 2px !important;
+  background-color: white !important;
+  padding: 0.200rem 0.75rem !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  background-clip: padding-box;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;  
+}
+
+.btn-trash{
+    color: #013244 !important;
+    background-color: white;
+}
+
+.tablabajo{
+  max-height: 400px !important;
+  overflow-y: scroll;
+}
+
+.tablaactivities{
+  max-height: 800px !important;
+  overflow-y: scroll;
+}
+
+.progress-step:hover .progress-marker {
+    background-color: #013244 !important;
+}
+
+.progress-step.is-complete .progress-marker {
+    background-color: #013244 !important;
+}
+
+.progress-step.is-active .progress-marker {
+    background-color: #F08024 !important;
+}
+
+.nosombra{
+  box-shadow: none;
+}
+
+
+.progress-title2{
+  margin: 1.52rem 0 0.912rem 19px !important;
+}
+    
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    background-color: transparent !important;
+    color: #013244 !important;
+}
+
+.tabs .tab a {
+    color: #013244 !important;
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0 24px !important;
+    font-size: 14px !important;
+    text-overflow: ellipsis !important;
+    overflow: hidden !important;
+    -webkit-transition: color .28s ease, background-color .28s ease !important;
+    transition: color .28s ease, background-color .28s ease !important;
+}
+
+.tabs .indicator {
+    position: absolute;
+    bottom: 0;
+    height: 2px;
+    background-color: #013244;
+    will-change: left, right;
+}
+
+.lhine{
+      line-height: 2;
+}
+
+.card-content a {
+  color: black;
+}
+
+.modal .modal-footer {
+    border-radius: 0 0 2px 2px;
+    background-color: #fafafa;
+    padding: 4px 6px;
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+
+.cardasignados {
+  max-height: 600px !important;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.cardasignados::-webkit-scrollbar {
+   width: 8px; /*=> ancho del scroll*/
+   background-color: #868686; /*=> Color del fondo principal */
+}
+.cardasignados::-webkit-scrollbar-track {
+   background-color: #ffffff;
+}
+.cardasignados::-webkit-scrollbar-thumb{
+   background-color: #868686; /*=> color del indicador del scroll */
+   border-radius: 10px; /*=> bordes redondeados */
+   background-image:-webkit-linear-gradient(45deg,rgba(0,0,0,.3) 25%,transparent 25%,transparent 50%,rgba(0,0,0, 0.3) 50%,rgba(0,0,0,.3) 75%,transparent 75%,transparent);
+}
+
+/*
+.cards-container {
+  column-break-inside: avoid;
+}*/
+
+.cards-container .card {
+  display: inline-block;
+  overflow: visible;
+}
+
+.nomargin{
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.terOrden{
+  cursor: pointer;
+}
+
+.row-sin-margin{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 0px !important;
+}
+
+/*Estilo de powerbi*/
+ body {
+   margin: 25px;
+}
+
+.dashboard-container {
+  height: 100vh; /* Ajusta la altura según sea necesario */
+  width: 100%;
+  overflow: hidden; /* Para evitar barras de desplazamiento */
+}
+iframe {
+  border: 10;
+  width: 100%;
+  height: 100%;
+}
+
