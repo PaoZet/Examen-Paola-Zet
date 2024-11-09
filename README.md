@@ -14,7 +14,7 @@ MySQL (o MariaDB) para almacenar las tareas.
 
 2. Base de datos
 Importar la Base de Datos Existente
-La base de datos ya está creada y se proporcionará un archivo SQL que contiene la estructura y los datos necesarios. Para importar la base de datos, sigue estos pasos:
+La base de datos ya está creada y se proporcionó un archivo SQL que contiene la estructura y los datos necesarios. Para importar la base de datos, sigue estos pasos:
 
 Abre tu herramienta de gestión de bases de datos como phpMyAdmin o un cliente MySQL.
 Selecciona la base de datos examenfinal.
